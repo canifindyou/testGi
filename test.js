@@ -1,3 +1,3 @@
 function test(){
-    console.log(1233)
+    console.log(123366)
 }
